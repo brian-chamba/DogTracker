@@ -1,7 +1,7 @@
 {
   "mainAssemblyName": "DogTrackerNET9",
   "resources": {
-    "hash": "sha256-b3zWt/7yD8qRFSIx8adUrrjm6uEZ5Uzk+7STvFjUZSY=",
+    "hash": "sha256-y0InomlCkI5jeIDEGn0TX5q/hNmvbhIEu9a3JLyNMaA=",
     "fingerprinting": {
       "Microsoft.AspNetCore.Components.7i4hukcwp0.wasm": "Microsoft.AspNetCore.Components.wasm",
       "Microsoft.AspNetCore.Components.Forms.dwa27i9f6p.wasm": "Microsoft.AspNetCore.Components.Forms.wasm",
@@ -20,7 +20,7 @@
       "Microsoft.Extensions.Primitives.wgkaqcaqxl.wasm": "Microsoft.Extensions.Primitives.wasm",
       "Microsoft.JSInterop.fz4j6s4z6y.wasm": "Microsoft.JSInterop.wasm",
       "Microsoft.JSInterop.WebAssembly.dnug9e66zg.wasm": "Microsoft.JSInterop.WebAssembly.wasm",
-      "MudBlazor.63uu0tgeul.wasm": "MudBlazor.wasm",
+      "MudBlazor.m5nqk31uiu.wasm": "MudBlazor.wasm",
       "System.Collections.Concurrent.a6lb38lhlq.wasm": "System.Collections.Concurrent.wasm",
       "System.Collections.Immutable.y7zrpph99o.wasm": "System.Collections.Immutable.wasm",
       "System.Collections.3n3mhgeo09.wasm": "System.Collections.wasm",
@@ -39,7 +39,7 @@
       "System.Text.Json.uvlammole3.wasm": "System.Text.Json.wasm",
       "System.Text.RegularExpressions.wk6fo6sb3o.wasm": "System.Text.RegularExpressions.wasm",
       "System.Private.CoreLib.axea9zr19k.wasm": "System.Private.CoreLib.wasm",
-      "DogTrackerNET9.hjtc4c8p6s.wasm": "DogTrackerNET9.wasm",
+      "DogTrackerNET9.ii3yn7pco6.wasm": "DogTrackerNET9.wasm",
       "dotnet.js": "dotnet.js",
       "dotnet.native.noby4tlk4d.js": "dotnet.native.js",
       "dotnet.native.qe75a9vfqn.wasm": "dotnet.native.wasm",
@@ -84,7 +84,7 @@
       "Microsoft.Extensions.Primitives.wgkaqcaqxl.wasm": "sha256-4E9QgG80eMrFZtU2cQ3IdWiSy9K4odn43sch89M9Y9Y=",
       "Microsoft.JSInterop.fz4j6s4z6y.wasm": "sha256-+1XeGMQzHJ0tTFojaMJoSuv8I8sKpD7U3ANIvRtApzk=",
       "Microsoft.JSInterop.WebAssembly.dnug9e66zg.wasm": "sha256-1391UuW9RnaY9v+RXWFFkaN+3zIkFWK6F/i2rkesTxo=",
-      "MudBlazor.63uu0tgeul.wasm": "sha256-Lvhq6nPblauWtZ71SLdcltrs9uNwg2TTNBH4p9JWLiA=",
+      "MudBlazor.m5nqk31uiu.wasm": "sha256-Rvj3Z0fJYuD9YzP3SPPT22tBx1yfOowCnnlbSrg3dck=",
       "System.Collections.Concurrent.a6lb38lhlq.wasm": "sha256-8tJVOeBwXhNNNvbH9fOfjLE9FVIjQDMP8MCReEUKwd0=",
       "System.Collections.Immutable.y7zrpph99o.wasm": "sha256-DvinVKjPE9IYGrPhnMV2xSA7JSKHJDzRssnWeJJKkHE=",
       "System.Collections.3n3mhgeo09.wasm": "sha256-EXP1Q9HXQyKvifL/lVMIbaXRiGn2/IdRZOE7eKkK0/4=",
@@ -101,7 +101,7 @@
       "System.Text.Encodings.Web.8qvkegu1ci.wasm": "sha256-oAvGjE7zOfELanuhXBazvipywX/fnbrfBmWPDH/R3bw=",
       "System.Text.Json.uvlammole3.wasm": "sha256-SjtUOrTaiA4joi5XVc1Rux11V7AgyKrVQvvLG7159jo=",
       "System.Text.RegularExpressions.wk6fo6sb3o.wasm": "sha256-8MD4ZDismovzmypdp8hDWC8WS7MPFAHDjxRuk4t8vuU=",
-      "DogTrackerNET9.hjtc4c8p6s.wasm": "sha256-jRQCgHgJz10FiZ4y2eHO6yk3Cq7Mgd97SNKB855u5rk="
+      "DogTrackerNET9.ii3yn7pco6.wasm": "sha256-tjbsvMaUvD3SagQGdoNoaUqRXI/9nyCZl9srjekggwE="
     }
   },
   "cacheBootResources": true,
